@@ -20,7 +20,7 @@ const Navbar = ({ onSearch }) => {
         onChange={handleSearch}
       />
       <a
-        href="https://github.com/Dhruv-Kapoor-1202"
+        href="https://github.com/sethiDhairya/Dhairya_Sethi_EventSpotLite/"
         target="_blank"
         className="flex items-center justify-center p-2 duration-200 border rounded-full border-white/15 hover:bg-gray-300/5 "
       >
